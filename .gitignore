@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (too large for GitHub)
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.hdf5
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Models
+*.model
+*.joblib
